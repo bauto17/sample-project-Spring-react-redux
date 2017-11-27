@@ -1,0 +1,13 @@
+.Edit{
+    width: 100%
+}
+.Edit-cb{
+    width: 100%
+}
+.Edit-textarea{
+    width: 100%;
+    height: 7em;
+}
+.Edit-button{
+    width: 50%;
+}
